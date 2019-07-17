@@ -9,7 +9,7 @@ description: |
   snapcraft.yaml, https://github.com/shawn111/tmux.snap
 
 grade: stable
-confinement: classic
+confinement: devmode
 
 apps:
   tmux:
